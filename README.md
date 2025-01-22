@@ -1,6 +1,6 @@
 # Markdown Editor
 
-> 本项目基于 [@doocs/md](https://github.com/doocs/md) 进行二次开发，增加了 Electron 客户端支持和多图床功能。
+> 本项目基于 [@doocs/md](https://github.com/doocs/md) 进行二次开发，增加了 Electron 客户端支持。
 
 一款高度简洁的微信 Markdown 编辑器，支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载图片素材等特性。
 

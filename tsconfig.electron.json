@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "electron/dist",
+    "lib": ["ES2021"],
+    "types": ["node", "electron"],
+    "noImplicitAny": true,
+    "allowJs": true
+  },
+  "include": ["electron/**/*"]
+} 
